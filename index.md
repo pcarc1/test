@@ -3,6 +3,6 @@ layout: home
 title: "Ko Lab"
 ---
 
-![](/photos/lab1.jpg)
+![](https://github.com/pcarc1/test/blob/main/photos/lab1.jpg)
 
 Something about infectious disease control, inequities, etc.
