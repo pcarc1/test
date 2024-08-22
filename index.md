@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Welcome"
+title: "Ko Lab"
 ---
 
-Hola a todos bienvenidos a esta pagina
+![](photos/lab1.jpg)
 
-insertar imagen aca
+Something about infectious disease control, inequities, etc.
